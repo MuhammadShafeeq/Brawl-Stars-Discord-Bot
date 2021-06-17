@@ -55,4 +55,6 @@ Then it checks if the account gotten is real by sending a request to a website t
 ![image](https://user-images.githubusercontent.com/83785340/122420057-6f0e7b80-cf9c-11eb-93d2-2e772ee81189.png)
 
 Then using requests to send http for 'GET' methods to get more info.
+
 Note: **None of this was copied and was all original.** 
+Note: **You cannot run this code since discord safety automatically protects unknown ip's**
