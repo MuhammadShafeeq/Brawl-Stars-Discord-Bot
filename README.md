@@ -34,7 +34,7 @@ When you use a command when it is not registered.
 
 When you type an incorrect account to register.
 
-# What actually happens behind the scene's
+# What actually happens behind the scenes
 
 %%%%%%%%%%% SAVING AN ACCOUNT %%%%%%%%%%%%%%%%'
 
